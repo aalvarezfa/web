@@ -395,7 +395,7 @@ header .col-left{
 header.difuminado:before {
     background: linear-gradient(270deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 90%) !important;
 }
-#consiste h2{
+#consiste h2, #consiste2 h2{
   text-align: left;
 }
 #grid .grid-container {
@@ -667,7 +667,7 @@ header.difuminado .container {
     position: relative;
 }
 
-#RPC .col-3 img {
+#RPC .col-3 img, #RPC2 .col-3 img, #RPC3 .col-3 img {
     width: 100%;
 }
 
